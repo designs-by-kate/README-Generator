@@ -12,10 +12,17 @@
   - [Questions](#questions)
   
   ## Installation
-  To install the README Generator, follow these steps: Clone the repository to your local machine. Navigate to the project's root directory. Install the required dependencies.
+  To install the README Generator, follow these steps: 
+  1. Clone the repository to your local machine.
+  2. Navigate to the project's root directory.
+  3. Install the required dependencies.
   
   ## Usage
-  To use the README  Generator, follow these steps: Open a terminal in the project’s root directory. Run the application using the following command: node index.js. Answer the prompts to provide information about your project. Once all prompts are completed, the generated README.md file will be saved in the project’s root directory.
+  To use the README  Generator, follow these steps: 
+  1. Open a terminal in the project’s root directory.
+  2. Run the application using the following command: node index.js.
+  3. Answer the prompts to provide information about your project.
+  4. Once all prompts are completed, the generated README.md file will be saved in the project’s root directory.
   
   ## License
   This project is licensed under the MIT License.
