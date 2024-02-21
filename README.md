@@ -23,6 +23,8 @@
   2. Run the application using the following command: node index.js.
   3. Answer the prompts to provide information about your project.
   4. Once all prompts are completed, the generated README.md file will be saved in the project’s root directory.
+  [Link Text](./README.Generator.mp4)
+
   
   ## License
   This project is licensed under the MIT License.
