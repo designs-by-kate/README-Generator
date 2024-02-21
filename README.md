@@ -28,12 +28,12 @@
   This project is licensed under the MIT License.
   
   ## Contributing
-  Contributions are welcome! Feel free to submit pull requests or open issues
+  Contributions are welcome! Feel free to submit pull requests or open issues.
 
   ## Tests
   N/A
   
   ## Questions
   For any questions or feedback, feel free to contact me:
-  - GitHub: [designs-by-kate ](https://github.com/designs-by-kate )
-  - Email: 
+  - GitHub: [designs-by-kate (github.com)](https://github.com/designs-by-kate (github.com))
+  - Email: email@example.com
